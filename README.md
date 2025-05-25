@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameer
 - 👀 I’m interested in electrical and electronics
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning java programming
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
